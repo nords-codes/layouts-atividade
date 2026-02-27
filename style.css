@@ -1,13 +1,36 @@
-body{
+.blu {
     background-color: rgb(129, 129, 255);
+    padding: 50px;
+    margin: 20px;
 }
 
-.yo{
+.pu {
+    background-color: rgb(166, 95, 233);
+    justify-content: center;
+    padding: 50px;
+    margin: 20px;
+
+}
+
+.yo {
     padding: 50;
     margin: 20;
     background-color: rgb(255, 255, 199);
 }
 
-.flex{
+.yu {
+    padding: 50;
+    margin: 20;
+    width: 150;
+    background-color: rgb(255, 255, 199);
+}
+
+.flex {
     display: flex;
+}
+.ya{
+     padding: 50;
+    margin: 20;
+    background-color: rgb(255, 255, 199);
+    height: 150;
 }
